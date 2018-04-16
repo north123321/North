@@ -1,0 +1,23 @@
+
+#liebiao .list_t{width: 1205px;height: 40px;border:1px solid #ccc;margin-top: 28px;font-size: 12px;line-height: 40px;}
+#liebiao .list_t .list_tl li{float:left;}
+#liebiao .list_t .list_tl .list_tl3 input{width: 40px;height: 18px;border:1px solid #ccc;}
+#liebiao .list_t .list_tl .list_tl4 input{width: 14px;height: 14px;border:1px solid #ccc;margin-left: 12px;}
+#liebiao .list_t .list_tl .list_tl4 label{padding-right: 20px;}
+#liebiao .list_t .list_tc input{width: 240px;height: 28px;border:1px solid #ccc;float:left;margin:6px 0 0 6px;padding-left: 10px;}
+#liebiao .list_t .list_tc button{width: 45px;height: 30px;background: #FD7400;float:left;margin-top: 6px;color:#fff;}
+#liebiao .list_t .list_tr button{width: 54px;height: 28px;border:1px solid #ccc;background: #fff;margin-right: 10px;font-size: 12px;color:#ccc;}
+#liebiao .list_t .list_tr span{color:#f00;}
+
+/*------------商品列表-------------*/
+
+#liebiao .list_c  li{float:left;width: 220px;padding-right: 20px;padding-top: 20px;text-align: center;}
+#liebiao .list_c  li img{float:left;padding-top: 4px;padding-right: 2px;}
+#liebiao .list_c  li p{float:left;font-size: 12px;color:#909494;line-height: 24px;}
+#liebiao .list_c  li .jiage{color:#FD7400;font-size: 14px;float:left;}
+#liebiao .list_c  li .goumai{color:#909494;font-size: 14px;float:right;}
+#liebiao .list_c  li button{width: 125px;height: 36px;background: #FD7400;color:#fff;font-size: 15px;line-height: 36px;text-align: center;border-radius: 4px;display: none;}
+
+#liebiao .list_b{font-size: 12px;line-height: 40px;}
+#liebiao .list_b .list_br button{width: 54px;height: 28px;border:1px solid #ccc;background: #fff;margin-right: 10px;font-size: 12px;color:#ccc;}
+#liebiao .list_b .list_br span{color:#f00;}
